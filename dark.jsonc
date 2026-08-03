@@ -1,0 +1,27 @@
+{
+  "name": "Vercel Dark",
+
+  "cursorColor": "#EDEDED", // foreground
+  "selectionBackground": "#333333", // selection
+
+  "background": "#000000", // background
+  "foreground": "#EDEDED", // foreground
+
+  "black": "#000000", // ansiBlack
+  "red": "#F56464", // ansiRed
+  "green": "#58C760", // ansiGreen
+  "yellow": "#F99902", // ansiYellow
+  "blue": "#62A6FF", // ansiBlue
+  "purple": "#B675F1", // ansiMagenta
+  "cyan": "#14CBB7", // ansiCyan
+  "white": "#A1A1A1", // ansiWhite
+
+  "brightBlack": "#676767", // ansiBrightBlack
+  "brightRed": "#F56464", // ansiBrightRed
+  "brightGreen": "#58C760", // ansiBrightGreen
+  "brightYellow": "#F99902", // ansiBrightYellow
+  "brightBlue": "#62A6FF", // ansiBrightBlue
+  "brightPurple": "#B675F1", // ansiBrightMagenta
+  "brightCyan": "#14CBB7", // ansiBrightCyan
+  "brightWhite": "#EDEDED" // ansiBrightWhite
+}

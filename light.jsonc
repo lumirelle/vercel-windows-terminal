@@ -1,0 +1,27 @@
+{
+  "name": "Vercel Light",
+
+  "cursorColor": "#171717", // foreground
+  "selectionBackground": "#CCCCCC", // selection
+
+  "background": "#FFFFFF", // background
+  "foreground": "#171717", // foreground
+
+  "black": "#171717", // ansiBlack
+  "red": "#C62128", // ansiRed
+  "green": "#397C3B", // ansiGreen
+  "yellow": "#9E5200", // ansiYellow
+  "blue": "#005EE9", // ansiBlue
+  "purple": "#7200C4", // ansiMagenta
+  "cyan": "#027D70", // ansiCyan
+  "white": "#CCCCCC", // ansiWhite
+
+  "brightBlack": "#666666", // ansiBrightBlack
+  "brightRed": "#C62128", // ansiBrightRed
+  "brightGreen": "#397C3B", // ansiBrightGreen
+  "brightYellow": "#9E5200", // ansiBrightYellow
+  "brightBlue": "#005EE9", // ansiBrightBlue
+  "brightPurple": "#7200C4", // ansiBrightMagenta
+  "brightCyan": "#027D70", // ansiBrightCyan
+  "brightWhite": "#FAFAFA" // ansiBrightWhite
+}
