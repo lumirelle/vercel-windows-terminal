@@ -1,4 +1,4 @@
-# Vercel for Windows Terminal
+# Vercel Theme for Windows Terminal
 
 Two variants: dark and light.
 
