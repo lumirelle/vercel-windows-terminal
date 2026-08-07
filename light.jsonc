@@ -1,27 +1,27 @@
 {
   "name": "Vercel Light",
 
-  "cursorColor": "#171717", // foreground
-  "selectionBackground": "#CCCCCC", // selection
+  "cursorColor": "#171717", // editorCursor.foreground
+  "selectionBackground": "#F2F2F2", // terminal.selectionBackground
 
-  "background": "#FFFFFF", // background
-  "foreground": "#171717", // foreground
+  "background": "#FFFFFF", // editor.background
+  "foreground": "#171717", // terminal.foreground
 
   "black": "#171717", // ansiBlack
   "red": "#C62128", // ansiRed
-  "green": "#397C3B", // ansiGreen
-  "yellow": "#9E5200", // ansiYellow
-  "blue": "#005EE9", // ansiBlue
-  "purple": "#7200C4", // ansiMagenta
-  "cyan": "#027D70", // ansiCyan
-  "white": "#CCCCCC", // ansiWhite
+  "green": "#107D32", // ansiGreen
+  "yellow": "#AA4D00", // ansiYellow
+  "blue": "#005FF2", // ansiBlue
+  "purple": "#7D00CC", // ansiMagenta
+  "cyan": "#01F7F7", // ansiCyan
+  "white": "#F2F2F2", // ansiWhite
 
-  "brightBlack": "#666666", // ansiBrightBlack
-  "brightRed": "#C62128", // ansiBrightRed
-  "brightGreen": "#397C3B", // ansiBrightGreen
-  "brightYellow": "#9E5200", // ansiBrightYellow
-  "brightBlue": "#005EE9", // ansiBrightBlue
-  "brightPurple": "#7200C4", // ansiBrightMagenta
-  "brightCyan": "#027D70", // ansiBrightCyan
-  "brightWhite": "#FAFAFA" // ansiBrightWhite
+  "brightBlack": "#4D4D4D", // ansiBrightBlack
+  "brightRed": "#D35459", // ansiBrightRed
+  "brightGreen": "#479B61", // ansiBrightGreen
+  "brightYellow": "#BE763B", // ansiBrightYellow
+  "brightBlue": "#3B84F5", // ansiBrightBlue
+  "brightPurple": "#923BD2", // ansiBrightMagenta
+  "brightCyan": "#3BF9F9", // ansiBrightCyan
+  "brightWhite": "#FFFFFF" // ansiBrightWhite
 }

@@ -8,17 +8,26 @@ Two variants: dark and light.
 
 ## Mapping
 
+Colors are taken from the latest upstream Vercel design tokens
+([`TOKENS.md`](https://github.com/lumirelle/vscode-vercel/blob/main/TOKENS.md)).
+
 | Key | Dark | Light |
 |-----|------|-------|
 | background | `#000000` | `#FFFFFF` |
 | foreground | `#EDEDED` | `#171717` |
-| cursorColor | foreground | foreground |
-| selectionBackground | `#333333` | `#CCCCCC` |
-| black | ansiBlack | ansiBlack |
-| white | ansiWhite | ansiWhite |
-| purple | ansiMagenta | ansiMagenta |
-| tab.background | `#0A0A0A` | `#FFFFFF` |
-| tabRow.background | `#000000` | `#FAFAFA` |
+| cursorColor | `#EDEDED` | `#171717` |
+| selectionBackground | `#1A1A1A` | `#F2F2F2` |
+| black | `#EDEDED` | `#171717` |
+| red | `#C62128` | `#C62128` |
+| green | `#00CA50` | `#107D32` |
+| yellow | `#FF9300` | `#AA4D00` |
+| blue | `#47A8FF` | `#005FF2` |
+| purple | `#C472FB` | `#7D00CC` |
+| cyan | `#01F7F7` | `#01F7F7` |
+| white | `#1A1A1A` | `#F2F2F2` |
+| tab.background | `#00000000` | `#FFFFFFFF` |
+| tabRow.background | `#000000FF` | `#FFFFFFFF` |
+| tabRow.unfocusedBackground | `#000000FF` | `#FFFFFFFF` |
 
 ## Usage
 

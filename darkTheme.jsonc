@@ -1,13 +1,13 @@
 {
   "name": "Vercel Dark",
   "tab": {
-    "background": "#0A0A0AFF", // tab.activeBackground
+    "background": "#00000000", // tab.activeBackground
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
     "background": "#000000FF", // titleBar.background
-    "unfocusedBackground": "#000000FF" // titleBar.background
+    "unfocusedBackground": "#000000FF" // titleBar.inactiveBackground
   },
   "window": {
     "applicationTheme": "dark"

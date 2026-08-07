@@ -1,27 +1,27 @@
 {
   "name": "Vercel Dark",
 
-  "cursorColor": "#EDEDED", // foreground
-  "selectionBackground": "#333333", // selection
+  "cursorColor": "#EDEDED", // editorCursor.foreground
+  "selectionBackground": "#1A1A1A", // terminal.selectionBackground
 
-  "background": "#000000", // background
-  "foreground": "#EDEDED", // foreground
+  "background": "#000000", // editor.background
+  "foreground": "#EDEDED", // terminal.foreground
 
-  "black": "#000000", // ansiBlack
-  "red": "#F56464", // ansiRed
-  "green": "#58C760", // ansiGreen
-  "yellow": "#F99902", // ansiYellow
-  "blue": "#62A6FF", // ansiBlue
-  "purple": "#B675F1", // ansiMagenta
-  "cyan": "#14CBB7", // ansiCyan
-  "white": "#A1A1A1", // ansiWhite
+  "black": "#EDEDED", // ansiBlack
+  "red": "#C62128", // ansiRed
+  "green": "#00CA50", // ansiGreen
+  "yellow": "#FF9300", // ansiYellow
+  "blue": "#47A8FF", // ansiBlue
+  "purple": "#C472FB", // ansiMagenta
+  "cyan": "#01F7F7", // ansiCyan
+  "white": "#1A1A1A", // ansiWhite
 
-  "brightBlack": "#676767", // ansiBrightBlack
-  "brightRed": "#F56464", // ansiBrightRed
-  "brightGreen": "#58C760", // ansiBrightGreen
-  "brightYellow": "#F99902", // ansiBrightYellow
-  "brightBlue": "#62A6FF", // ansiBrightBlue
-  "brightPurple": "#B675F1", // ansiBrightMagenta
-  "brightCyan": "#14CBB7", // ansiBrightCyan
-  "brightWhite": "#EDEDED" // ansiBrightWhite
+  "brightBlack": "#A0A0A0", // ansiBrightBlack
+  "brightRed": "#98191F", // ansiBrightRed
+  "brightGreen": "#009C3E", // ansiBrightGreen
+  "brightYellow": "#C47100", // ansiBrightYellow
+  "brightBlue": "#3781C4", // ansiBrightBlue
+  "brightPurple": "#9758C1", // ansiBrightMagenta
+  "brightCyan": "#01BEBE", // ansiBrightCyan
+  "brightWhite": "#000000" // ansiBrightWhite
 }
