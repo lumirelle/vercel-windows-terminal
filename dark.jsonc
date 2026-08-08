@@ -7,21 +7,21 @@
   "background": "#000000", // editor.background
   "foreground": "#EDEDED", // terminal.foreground
 
-  "black": "#EDEDED", // ansiBlack
-  "red": "#C62128", // ansiRed
+  "black": "#A0A0A0", // ansiBlack
+  "red": "#FF565F", // ansiRed
   "green": "#00CA50", // ansiGreen
   "yellow": "#FF9300", // ansiYellow
   "blue": "#47A8FF", // ansiBlue
   "purple": "#C472FB", // ansiMagenta
   "cyan": "#01F7F7", // ansiCyan
-  "white": "#1A1A1A", // ansiWhite
+  "white": "#000000", // ansiWhite
 
-  "brightBlack": "#A0A0A0", // ansiBrightBlack
-  "brightRed": "#98191F", // ansiBrightRed
-  "brightGreen": "#009C3E", // ansiBrightGreen
-  "brightYellow": "#C47100", // ansiBrightYellow
-  "brightBlue": "#3781C4", // ansiBrightBlue
-  "brightPurple": "#9758C1", // ansiBrightMagenta
-  "brightCyan": "#01BEBE", // ansiBrightCyan
+  "brightBlack": "#EDEDED", // ansiBrightBlack
+  "brightRed": "#FF9399", // ansiBrightRed
+  "brightGreen": "#5CDD8F", // ansiBrightGreen
+  "brightYellow": "#FFBA5C", // ansiBrightYellow
+  "brightBlue": "#89C7FF", // ansiBrightBlue
+  "brightPurple": "#D9A5FC", // ansiBrightMagenta
+  "brightCyan": "#5CFAFA", // ansiBrightCyan
   "brightWhite": "#000000" // ansiBrightWhite
 }

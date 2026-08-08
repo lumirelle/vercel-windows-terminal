@@ -8,20 +8,20 @@
   "foreground": "#171717", // terminal.foreground
 
   "black": "#171717", // ansiBlack
-  "red": "#C62128", // ansiRed
+  "red": "#D8001B", // ansiRed
   "green": "#107D32", // ansiGreen
   "yellow": "#AA4D00", // ansiYellow
   "blue": "#005FF2", // ansiBlue
   "purple": "#7D00CC", // ansiMagenta
   "cyan": "#01F7F7", // ansiCyan
-  "white": "#F2F2F2", // ansiWhite
+  "white": "#FFFFFF", // ansiWhite
 
   "brightBlack": "#4D4D4D", // ansiBrightBlack
-  "brightRed": "#D35459", // ansiBrightRed
-  "brightGreen": "#479B61", // ansiBrightGreen
-  "brightYellow": "#BE763B", // ansiBrightYellow
-  "brightBlue": "#3B84F5", // ansiBrightBlue
-  "brightPurple": "#923BD2", // ansiBrightMagenta
-  "brightCyan": "#3BF9F9", // ansiBrightCyan
+  "brightRed": "#E65C6D", // ansiBrightRed
+  "brightGreen": "#66AC7C", // ansiBrightGreen
+  "brightYellow": "#C98D5C", // ansiBrightYellow
+  "brightBlue": "#5C99F7", // ansiBrightBlue
+  "brightPurple": "#AC5CDE", // ansiBrightMagenta
+  "brightCyan": "#5CFAFA", // ansiBrightCyan
   "brightWhite": "#FFFFFF" // ansiBrightWhite
 }
