@@ -16,12 +16,12 @@
   "cyan": "#01F7F7", // ansiCyan
   "white": "#FFFFFF", // ansiWhite
 
-  "brightBlack": "#4D4D4D", // ansiBrightBlack
-  "brightRed": "#E65C6D", // ansiBrightRed
-  "brightGreen": "#66AC7C", // ansiBrightGreen
-  "brightYellow": "#C98D5C", // ansiBrightYellow
-  "brightBlue": "#5C99F7", // ansiBrightBlue
-  "brightPurple": "#AC5CDE", // ansiBrightMagenta
-  "brightCyan": "#5CFAFA", // ansiBrightCyan
+  "brightBlack": "#171717", // ansiBrightBlack
+  "brightRed": "#D8001B", // ansiBrightRed
+  "brightGreen": "#107D32", // ansiBrightGreen
+  "brightYellow": "#AA4D00", // ansiBrightYellow
+  "brightBlue": "#005FF2", // ansiBrightBlue
+  "brightPurple": "#7D00CC", // ansiBrightMagenta
+  "brightCyan": "#01F7F7", // ansiBrightCyan
   "brightWhite": "#FFFFFF" // ansiBrightWhite
 }
