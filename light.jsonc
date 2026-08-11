@@ -2,7 +2,7 @@
   "name": "Vercel Light",
 
   "cursorColor": "#171717", // editorCursor.foreground
-  "selectionBackground": "#F2F2F2", // terminal.selectionBackground
+  "selectionBackground": "#EBEBEB", // terminal.selectionBackground
 
   "background": "#FFFFFF", // editor.background
   "foreground": "#171717", // terminal.foreground
