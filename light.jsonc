@@ -14,7 +14,7 @@
   "blue": "#005FF2", // ansiBlue
   "purple": "#7D00CC", // ansiMagenta
   "cyan": "#01F7F7", // ansiCyan
-  "white": "#FFFFFF", // ansiWhite
+  "white": "#4D4D4D", // ansiWhite
 
   "brightBlack": "#171717", // ansiBrightBlack
   "brightRed": "#D8001B", // ansiBrightRed
@@ -23,5 +23,5 @@
   "brightBlue": "#005FF2", // ansiBrightBlue
   "brightPurple": "#7D00CC", // ansiBrightMagenta
   "brightCyan": "#01F7F7", // ansiBrightCyan
-  "brightWhite": "#FFFFFF" // ansiBrightWhite
+  "brightWhite": "#4D4D4D" // ansiBrightWhite
 }

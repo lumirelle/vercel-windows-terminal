@@ -7,21 +7,21 @@
   "background": "#000000", // editor.background
   "foreground": "#EDEDED", // terminal.foreground
 
-  "black": "#EDEDED", // ansiBlack
+  "black": "#A0A0A0", // ansiBlack
   "red": "#FF565F", // ansiRed
   "green": "#00CA50", // ansiGreen
   "yellow": "#FF9300", // ansiYellow
   "blue": "#47A8FF", // ansiBlue
   "purple": "#C472FB", // ansiMagenta
   "cyan": "#01F7F7", // ansiCyan
-  "white": "#000000", // ansiWhite
+  "white": "#EDEDED", // ansiWhite
 
-  "brightBlack": "#EDEDED", // ansiBrightBlack
+  "brightBlack": "#A0A0A0", // ansiBrightBlack
   "brightRed": "#FF565F", // ansiBrightRed
   "brightGreen": "#00CA50", // ansiBrightGreen
   "brightYellow": "#FF9300", // ansiBrightYellow
   "brightBlue": "#47A8FF", // ansiBrightBlue
   "brightPurple": "#C472FB", // ansiBrightMagenta
   "brightCyan": "#01F7F7", // ansiBrightCyan
-  "brightWhite": "#000000" // ansiBrightWhite
+  "brightWhite": "#EDEDED" // ansiBrightWhite
 }
