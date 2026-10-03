@@ -10,25 +10,25 @@ Two variants: dark and light.
 
 ## Mapping
 
-Each value is written as its vercel.nvim palette entry, `scale[step]`, followed by the hex.
+Every value is a vercel.nvim semantic color (`colors.*` in `lua/vercel/colors.lua`).
 
 | Key | Dark | Light |
 |-----|------|-------|
-| background | `background[200]` `#000000` | `background[200]` `#FAFAFA` |
-| foreground | `gray[1000]` `#EDEDED` | `gray[1000]` `#171717` |
-| cursorColor | `gray[1000]` `#EDEDED` | `gray[1000]` `#171717` |
-| selectionBackground | `gray[200]` `#1F1F1F` | `gray[200]` `#EBEBEB` |
-| black | `gray[1000]` `#EDEDED` | `gray[1000]` `#171717` |
-| red | `red[900]` `#FF6166` | `red[900]` `#CB2A2F` |
-| green | `green[900]` `#62C073` | `green[900]` `#297A3A` |
-| yellow | `amber[900]` `#F2A20D` | `amber[900]` `#A35200` |
-| blue | `blue[900]` `#52A8FF` | `blue[900]` `#0068D6` |
-| purple | `purple[900]` `#BF7AF0` | `purple[900]` `#7820BC` |
-| cyan | `teal[900]` `#0AC7B4` | `teal[900]` `#067A6E` |
-| white | `background[100]` `#0A0A0A` | `background[100]` `#FFFFFF` |
-| tab.background | transparent `#00000000` | `background[200]` `#FAFAFAFF` |
-| tabRow.background | `background[200]` `#000000FF` | `background[200]` `#FAFAFAFF` |
-| tabRow.unfocusedBackground | `background[200]` `#000000FF` | `background[200]` `#FAFAFAFF` |
+| background | `colors.background` `#000000` | `colors.background` `#FAFAFA` |
+| foreground | `colors.foreground` `#EDEDED` | `colors.foreground` `#171717` |
+| cursorColor | `colors.foreground` `#EDEDED` | `colors.foreground` `#171717` |
+| selectionBackground | `colors.background_hover` `#1A1A1A` | `colors.background_hover` `#F2F2F2` |
+| black | `colors.background_reverse` `#EDEDED` | `colors.background_reverse` `#171717` |
+| red | `colors.red` `#FF6166` | `colors.red` `#CB2A2F` |
+| green | `colors.green` `#62C073` | `colors.green` `#297A3A` |
+| yellow | `colors.amber` `#F2A20D` | `colors.amber` `#A35200` |
+| blue | `colors.blue` `#52A8FF` | `colors.blue` `#0068D6` |
+| purple | `colors.purple` `#BF7AF0` | `colors.purple` `#7820BC` |
+| cyan | `colors.teal` `#0AC7B4` | `colors.teal` `#067A6E` |
+| white | `colors.foreground_reverse` `#0A0A0A` | `colors.foreground_reverse` `#FFFFFF` |
+| tab.background | transparent `#00000000` | `colors.background` `#FAFAFAFF` |
+| tabRow.background | `colors.background` `#000000FF` | `colors.background` `#FAFAFAFF` |
+| tabRow.unfocusedBackground | `colors.background` `#000000FF` | `colors.background` `#FAFAFAFF` |
 
 ## Usage
 

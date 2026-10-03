@@ -1,27 +1,27 @@
 {
   "name": "Vercel Light",
 
-  "cursorColor": "#171717", // gray[1000]
-  "selectionBackground": "#EBEBEB", // gray[200]
+  "cursorColor": "#171717", // colors.foreground
+  "selectionBackground": "#F2F2F2", // colors.background_hover
 
-  "background": "#FAFAFA", // background[200]
-  "foreground": "#171717", // gray[1000]
+  "background": "#FAFAFA",
+  "foreground": "#171717",
 
-  "black": "#171717", // gray[1000]
-  "red": "#CB2A2F", // red[900]
-  "green": "#297A3A", // green[900]
-  "yellow": "#A35200", // amber[900]
-  "blue": "#0068D6", // blue[900]
-  "purple": "#7820BC", // purple[900]
-  "cyan": "#067A6E", // teal[900]
-  "white": "#FFFFFF", // background[100]
+  "black": "#171717", // colors.background_reverse
+  "red": "#CB2A2F",
+  "green": "#297A3A",
+  "yellow": "#A35200", // colors.amber
+  "blue": "#0068D6",
+  "purple": "#7820BC",
+  "cyan": "#067A6E", // colors.teal
+  "white": "#FFFFFF", // colors.foreground_reverse
 
-  "brightBlack": "#171717", // gray[1000]
-  "brightRed": "#CB2A2F", // red[900]
-  "brightGreen": "#297A3A", // green[900]
-  "brightYellow": "#A35200", // amber[900]
-  "brightBlue": "#0068D6", // blue[900]
-  "brightPurple": "#7820BC", // purple[900]
-  "brightCyan": "#067A6E", // teal[900]
-  "brightWhite": "#FFFFFF" // background[100]
+  "brightBlack": "#171717", // colors.background_reverse
+  "brightRed": "#CB2A2F",
+  "brightGreen": "#297A3A",
+  "brightYellow": "#A35200", // colors.amber
+  "brightBlue": "#0068D6",
+  "brightPurple": "#7820BC",
+  "brightCyan": "#067A6E", // colors.teal
+  "brightWhite": "#FFFFFF" // colors.foreground_reverse
 }

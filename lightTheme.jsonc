@@ -1,13 +1,13 @@
 {
   "name": "Vercel Light",
   "tab": {
-    "background": "#FAFAFAFF", // background[200]
+    "background": "#FAFAFAFF",
     "showCloseButton": "always",
     "unfocusedBackground": null
   },
   "tabRow": {
-    "background": "#FAFAFAFF", // background[200]
-    "unfocusedBackground": "#FAFAFAFF" // background[200]
+    "background": "#FAFAFAFF",
+    "unfocusedBackground": "#FAFAFAFF"
   },
   "window": {
     "applicationTheme": "light"
