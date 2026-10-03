@@ -7,21 +7,21 @@
   "background": "#FAFAFA",
   "foreground": "#171717",
 
-  "black": "#171717", // colors.background_reverse
+  "black": "#171717", // colors.black
   "red": "#CB2A2F",
   "green": "#297A3A",
   "yellow": "#A35200", // colors.amber
   "blue": "#0068D6",
   "purple": "#7820BC",
   "cyan": "#067A6E", // colors.teal
-  "white": "#FFFFFF", // colors.foreground_reverse
+  "white": "#4D4D4D", // colors.white
 
-  "brightBlack": "#171717", // colors.background_reverse
+  "brightBlack": "#171717", // colors.black
   "brightRed": "#CB2A2F",
   "brightGreen": "#297A3A",
   "brightYellow": "#A35200", // colors.amber
   "brightBlue": "#0068D6",
   "brightPurple": "#7820BC",
   "brightCyan": "#067A6E", // colors.teal
-  "brightWhite": "#FFFFFF" // colors.foreground_reverse
+  "brightWhite": "#4D4D4D" // colors.white
 }

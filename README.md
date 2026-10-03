@@ -19,14 +19,14 @@ Every value is a vercel.nvim semantic color (`colors.*` in `lua/vercel/colors.lu
 | foreground | `colors.foreground` `#EDEDED` | `colors.foreground` `#171717` |
 | cursorColor | `colors.foreground` `#EDEDED` | `colors.foreground` `#171717` |
 | selectionBackground | `colors.background_hover` `#1A1A1A` | `colors.background_hover` `#F2F2F2` |
-| black | `colors.background_reverse` `#EDEDED` | `colors.background_reverse` `#171717` |
+| black | `colors.black` `#A1A1A1` | `colors.black` `#171717` |
 | red | `colors.red` `#FF6166` | `colors.red` `#CB2A2F` |
 | green | `colors.green` `#62C073` | `colors.green` `#297A3A` |
 | yellow | `colors.amber` `#F2A20D` | `colors.amber` `#A35200` |
 | blue | `colors.blue` `#52A8FF` | `colors.blue` `#0068D6` |
 | purple | `colors.purple` `#BF7AF0` | `colors.purple` `#7820BC` |
 | cyan | `colors.teal` `#0AC7B4` | `colors.teal` `#067A6E` |
-| white | `colors.foreground_reverse` `#0A0A0A` | `colors.foreground_reverse` `#FFFFFF` |
+| white | `colors.white` `#EDEDED` | `colors.white` `#4D4D4D` |
 | tab.background | transparent `#00000000` | `colors.background` `#FAFAFAFF` |
 | tabRow.background | `colors.background` `#000000FF` | `colors.background` `#FAFAFAFF` |
 | tabRow.unfocusedBackground | `colors.background` `#000000FF` | `colors.background` `#FAFAFAFF` |
