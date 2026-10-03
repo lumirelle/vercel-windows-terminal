@@ -1,27 +1,27 @@
 {
   "name": "Vercel Light",
 
-  "cursorColor": "#171717", // editorCursor.foreground
-  "selectionBackground": "#EBEBEB", // terminal.selectionBackground
+  "cursorColor": "#171717", // gray[1000]
+  "selectionBackground": "#EBEBEB", // gray[200]
 
-  "background": "#FFFFFF", // editor.background
-  "foreground": "#171717", // terminal.foreground
+  "background": "#FAFAFA", // background[200]
+  "foreground": "#171717", // gray[1000]
 
-  "black": "#171717", // ansiBlack
-  "red": "#D8001B", // ansiRed
-  "green": "#107D32", // ansiGreen
-  "yellow": "#AA4D00", // ansiYellow
-  "blue": "#005FF2", // ansiBlue
-  "purple": "#7D00CC", // ansiMagenta
-  "cyan": "#01F7F7", // ansiCyan
-  "white": "#4D4D4D", // ansiWhite
+  "black": "#171717", // gray[1000]
+  "red": "#CB2A2F", // red[900]
+  "green": "#297A3A", // green[900]
+  "yellow": "#A35200", // amber[900]
+  "blue": "#0068D6", // blue[900]
+  "purple": "#7820BC", // purple[900]
+  "cyan": "#067A6E", // teal[900]
+  "white": "#FFFFFF", // background[100]
 
-  "brightBlack": "#171717", // ansiBrightBlack
-  "brightRed": "#D8001B", // ansiBrightRed
-  "brightGreen": "#107D32", // ansiBrightGreen
-  "brightYellow": "#AA4D00", // ansiBrightYellow
-  "brightBlue": "#005FF2", // ansiBrightBlue
-  "brightPurple": "#7D00CC", // ansiBrightMagenta
-  "brightCyan": "#01F7F7", // ansiBrightCyan
-  "brightWhite": "#4D4D4D" // ansiBrightWhite
+  "brightBlack": "#171717", // gray[1000]
+  "brightRed": "#CB2A2F", // red[900]
+  "brightGreen": "#297A3A", // green[900]
+  "brightYellow": "#A35200", // amber[900]
+  "brightBlue": "#0068D6", // blue[900]
+  "brightPurple": "#7820BC", // purple[900]
+  "brightCyan": "#067A6E", // teal[900]
+  "brightWhite": "#FFFFFF" // background[100]
 }
