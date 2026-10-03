@@ -4,6 +4,7 @@ Two variants: dark and light.
 
 ## Sources
 
+- Design system: [Vercel Geist design system](https://vercel.com/geist/introduction)
 - Colors: [vercel.nvim](https://github.com/lumirelle/vercel.nvim) —
   [`SCHEMA.md`](https://github.com/lumirelle/vercel.nvim/blob/main/SCHEMA.md) /
   [`lua/vercel/colors.lua`](https://github.com/lumirelle/vercel.nvim/blob/main/lua/vercel/colors.lua)
